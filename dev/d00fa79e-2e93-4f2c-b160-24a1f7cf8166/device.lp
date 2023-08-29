@@ -1,5 +1,5 @@
 (librepcb_device d00fa79e-2e93-4f2c-b160-24a1f7cf8166
- (name "F93xxxxxxCx")
+ (name "AVX F93xxxxxxCx")
  (description "AVX F93 Series Resin-Molded Tantalum J-Lead Capacitor, C case (EIA 6032-27).\n\nDatasheet: http://datasheets.avx.com/F93.pdf")
  (keywords "avx,f93,capacitor,tantalum,avx c")
  (author "Danilo Bargen")
