@@ -3,7 +3,7 @@
  (description "AVX F93 Series Resin-Molded Tantalum J-Lead Capacitor, C case (EIA 6032-27).\n\nDatasheet: http://datasheets.avx.com/F93.pdf")
  (keywords "avx,f93,capacitor,tantalum,avx c")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-11-22T22:54:02Z)
  (deprecated false)
  (generated_by "")
